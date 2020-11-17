@@ -1,6 +1,8 @@
 package com.company;
 
-public class Vigenere {
+
+
+public class Vigenere extends HttpServ{
 
     public static String encoder(String word, String key) {
 
